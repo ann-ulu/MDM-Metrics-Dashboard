@@ -1,7 +1,5 @@
 # MDM-Metrics-Dashboard
 This repository contains a snippet of an interactive dashboard for tracking Master Data Management (MDM) metrics, built using Power BI. The dashboard provides insights into key MDM performance indicators, customer metrics, and system health.<br>
-The visualizations in this dashboard are designed to help effectively monitor and manage data quality, system availability, and customer information in alignment with MDM goals.
-
 
 ### Screenshot
 <img src="MDM metrics.png">
@@ -16,3 +14,5 @@ The MDM Metrics Tracker dashboard offers the following key metrics:<br>
 **MDM Downtime Duration:** Visualizes downtime in minutes over specific dates to monitor system availability.<br>
 **MDM Autolinked Record:** Highlights the count and percentage of autolinked records.<br>
 **Duplicate Reduction Rate:** Shows the rate of duplicate data reduction over time.<br>
+
+The visualizations in this dashboard are designed to help effectively monitor and manage data quality, system availability, and customer information in alignment with MDM goals.
